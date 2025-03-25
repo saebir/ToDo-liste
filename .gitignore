@@ -172,4 +172,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 >>>>>>> cb0c3645485f833d3e55d50a7bcd8339362c0a78
+=======
+
+# Expo specific
+.expo/
+.expo-shared/
+
+>>>>>>> b8a4e3776674de5d4d097e748e512e2182e8a35c
