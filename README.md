@@ -28,8 +28,8 @@ npm install -g expo-cli
 ### 3. Klon projektet fra Github
 
 ```bash
-git clone https://github.com/saebir/F-rste-Login.git
-cd F-rste-Login
+git clone https://github.com/saebir/ToDo-liste.git
+cd ToDo-liste
 ```
 
 ### 4. Installer projektets afhængigheder
